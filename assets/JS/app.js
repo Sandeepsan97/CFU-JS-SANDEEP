@@ -94,6 +94,14 @@ result.value=password
 
 
 }
+// if(upperCasebtn==true || lowerCasebtn==true || numbersCasebtn==true || symbolCasebtn==true){
+//     for(let i=0;i<passwordLength;i++){
+//         const id_generator=Math.floor(Math.random() * symbols.length *numbers.length *lowerCase.length*uppercaseLetters.length);
+//         password+=symbols[id_generator]
+    
+// result.value=password
+//     }
+// }
 
 
 
