@@ -15,7 +15,7 @@ document.getElementById('length').addEventListener('change', charLength1);
 const generateBTn=document.getElementById("btn");
 generateBTn.addEventListener("click",e=>{
 
-  const length=  document.getElementById('length').addEventListener('change', charLength1);
+//   const length=  document.getElementById('length').addEventListener('change', charLength1);
 
 
     let result=document.getElementById("password__result")
@@ -47,8 +47,6 @@ generateBTn.addEventListener("click",e=>{
         check+="!@#$%^&*()"
 
     }
-
-
 
     let store="";
 
